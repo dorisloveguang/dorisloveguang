@@ -1,82 +1,98 @@
 ---
 layout: post
-title: Hello Hydeout
-excerpt_separator:  <!--more-->
+title: 日本語の森　N2文法まとめ
+comments: true
+category: Japanese
+tags: [japanese, nihonngonomori]
 ---
+整理自己看Youtube頻道**日本語の森**的[「VS JLPT N2 Grammar」](VS JLPT N2 Grammar)中所學到的重點。N3的ケント老師講話都會故意放非常慢，很容易就能聽懂，到N2的たけぱん老師就開始用稍快的日文講解了，感覺頗適合一邊學習文法一邊練習聽力！  
+~~是說たけぱん老師身材真好！~~
+# #1 
+## 「〜際に、〜際」
+接続：`名詞＋の＋際`、`辞書/タ形＋際`  
+意味：〜とき。「～とき」を表す表現（硬い言い方）。
+### 例文：
+```
+東京へ来た際は、ぜひ私に連絡してください。
+受験（じゅけん）の際に受験票を忘れないでください。
+海外へ行く際、気をつけるべきことはありますか？
+```
+- 雖然跟「～とき」很像，但是用起來比較生硬，比較偏向文書或是跟「目の上」對象講話時使用，跟朋友是不用的！
+- 親戚（しんせき）、仕事での知り合いまでは使っても大丈夫です。
+- 過去でも未来でもOK
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
+## 「〜に際して、〜にあたって」
+接続：`名詞`、`辞書形`  
+意味：これから〜するときに。未来のことに向けて準備する。
+### 例文：
+```
+開会に際して、社長がスピーチをする。
+猫を飼うにあたって必要なものをすべて揃えた。
+進学先を選ぶに際して、きちんと調べましょう。
+```
+- これからのこと。
 
-### Keep It Simple
-
-In keeping with the original Hyde theme, Hydeout aims to keep the overall
-design lightweight and plugin-free. JavaScript is currently limited only
-to Disqus and Google Analytics (and is only loaded if you provide configuration
-variables).
-
-Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
-the CSS degrades into a single column layout.
-
-### Customization
-
-Hydeout replaces Hyde's class-based theming with the use
-of the following SASS variables:
-
-```scss
-$sidebar-bg-color: #202020 !default;
-$sidebar-sticky: true !default;
-$layout-reverse: false !default;
-$link-color: #268bd2 !default;
+# #2　何かの直後を表す表現１
+## 「〜とたん（に）」
+接続：`タ形`  
+意味：〜した直後に。（急な変化が起こる）
+```
+疲れていたので横になったとたん眠ってしまった。
+外に出たとたん、激しい寒さが襲ってきた。
+わたあめを口に入れたとたんに溶けてしまった。
 ```
 
-To override these variables, create your own `assets/css/main.scss` file.
-Define your own variables, then import in Hydeout's SCSS, like so:
+- 某個動作之後馬上發生的事情。
 
+## 「〜かと思うと、〜かとおもったら」
+接続：`タ/テイル形`  
+意味：〜した直後に。（意外なことが起こる）
 ```
----
-# Jekyll needs front matter for SCSS files
----
-
-$sidebar-bg-color: #ac4142;
-$link-color: #ac4142;
-$sidebar-sticky: false;
-@import "hydeout";
+姉が帰ってきたかと思ったら、もう出かけていった。
+雨が降ってきたかと思ったらすぐに止んだ。
+赤ちゃんは寝ているかと思うと泣き出したりする。
 ```
+- 某個動作之後發生的事，但表示該事情讓人意想不到。
 
-See the [_variables](_sass/hydeout/_variables.scss) file for other variables
-you can override.
+# #3　何かの直後を表す表現２
+## 「～か～ないかのうちに」
+接続：`辞書/タ形＋か`、`ナイ形＋ないかのうちに`
+意味：〜が終わるのとほぼ同時に。（終わったのも気づかないくらい！どうじ！）
+```
+姉が帰ってきたかと思ったら、もう出かけていった。
+雨が降ってきたかと思ったらすぐに止んだ。
+赤ちゃんは寝ているかと思うと泣き出したりする。
+```
+- dsf
 
-You can also insert custom head tags (e.g. to load your own stylesheets) by
-defining your own `_includes/custom-head.html` or insert tags at the end
-of the body (e.g. for custom JS) by defining your own
-`_includes/custom-foot.html`.
+## 「〜次第（しだい）」
+接続：`タ/テイル形`  
+意味：〜した直後に。（意外なことが起こる）
+```
+姉が帰ってきたかと思ったら、もう出かけていった。
+雨が降ってきたかと思ったらすぐに止んだ。
+赤ちゃんは寝ているかと思うと泣き出したりする。
+```
+- dsf
+# #4
+## 「～うちに」
 
-### New Features
+## 「〜つつ」
 
-* Hydeout also adds a new tags page (accessible in the sidebar) and a new
-  "category" layout for dedicated category pages.
+名詞+の、辞書/ている/ない形、イ形い、ナ形な
+～うちに
+通常只用在表示有只有在這個うちに才有辦法做到的事
+チャンスを表す！
 
-* Category pages are automatically added to the sidebar. All other pages
-  must have `sidebar_link: true` in their front matter to show up in
-  the sidebar.
+つつ
+ます形
 
-* A simple redirect-to-Google search is available. If you want to use
-  Google Custom Search or Algolia or something with more involved,
-  override the `search.html`.
+跟ながら差不多
+味見をしつつ、料理をする。
+話を聞きいてるふりをしつつ、テレビを見ていた。
 
-* Disqus integration is ready out of the box. Just add the following to
-  your config file:
-
-  ```yaml
-  disqus:
-    shortname: my-disqus-shortname
-  ```
-
-  If you don't want Disqus or want to use something else, override
-  `comments.html`.
-
-* For Google Analytics support, define a `google_analytics` variable with
-  your property ID in your config file.
-
-There's also a bunch of minor tweaks and adjustments throughout the
-theme. Hope this works for you!
+＃5
+「 ばかりだ 」
+「つつある」
+「ようとしている 」
+3個都是表示變化的用法
