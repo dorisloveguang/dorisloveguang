@@ -4,7 +4,7 @@ title: 日本語の森　N2文法まとめ
 comments: true
 tags: [japanese, nihonngonomori]
 ---
-整理自己看Youtube頻道**日本語の森**的[「VS JLPT N2 Grammar」](VS JLPT N2 Grammar)中所學到的重點。N3的ケント老師講話都會故意放非常慢，很容易就能聽懂，到N2的たけぱん老師就開始用稍快的日文講解了，感覺頗適合一邊學習文法一邊練習聽力！  
+整理自己看Youtube頻道**日本語の森**的[「VS JLPT N2 Grammar」](https://www.youtube.com/playlist?list=PLINFE8v4DOhvV5tJT77oF92vIwLLl6wAA)中所學到的重點。N3的ケント老師講話都會故意放非常慢，很容易就能聽懂，到N2的たけぱん老師就開始用稍快的日文講解了，感覺頗適合一邊學習文法一邊練習聽力！  
 ~~是說たけぱん老師身材真好！~~
 # #1 
 ## 「〜際に、〜際」
