@@ -3,15 +3,15 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Chun
+title:            Guang
 tagline:          'Blog'
-description:      '人生好難，只能不斷學習'
-url:              https://blog.chunsann.com
+description:      '請你退出競爭行列'
+url:              https://dorisloveguang.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
-  name:           'Chun Tsai'
-  url:            https://twitter.com/chunntsai
+  name:           'Guang'
+  url:            https://dorisloveguang.github.io
 
 paginate:         5
 
@@ -24,7 +24,5 @@ plugins:
 #version:            
 sidebar_home_link:  true
 github:
-  repo:             https://github.com/oukalatte
+  repo:             https://github.com/dorisloveguang
 
-disqus:
-  shortname: 'oukalatte'
