@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日本語の森　N2文法まとめ
+title: 日本語の森　N2文法まとめ(未完)
 comments: true
 tags: [japanese, nihonngonomori]
 ---
