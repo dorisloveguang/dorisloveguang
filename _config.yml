@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Chun
 tagline:          'Blog'
-description:      '人生好難，你只能一直學習'
+description:      '人生好難，只能不斷學習'
 url:              https://blog.chunsann.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
@@ -24,7 +24,7 @@ plugins:
 #version:            
 sidebar_home_link:  true
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/oukalatte
 
 disqus:
   shortname: 'oukalatte'
